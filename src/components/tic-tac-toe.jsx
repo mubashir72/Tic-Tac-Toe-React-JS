@@ -4,7 +4,7 @@ import { useState } from 'react'
 const initialBoard = ()=>Array(9).fill(null);
 
 function TicTacToe() {
-  const [board, setBoard] = useState(initialBoard());
+
   console.log(board)
 
   return (
