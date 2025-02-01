@@ -1,5 +1,6 @@
 body{
   font-family: sans-serif;
+  background-color: #F2EFE7;
 }
 
 .game{
@@ -27,16 +28,23 @@ body{
   height: 100px;
   font-size: 36px;
   border: 2px solid #cccccc;
+  background-color: #9ACBD0;
   cursor: pointer;
+  color: black;
   transition: background-color 0.3s ease-in-out;
 
 
 
 }
 .cell:hover{
-  background-color: #f0f0f0;
+  background-color: #48A6A7;
 }
+
 
 .reset-button{
   padding: 5px 10px;
+  background-color: red;
+  font-weight: 900;
+  border-radius: 10%;
+  border: 50px black;
 }
