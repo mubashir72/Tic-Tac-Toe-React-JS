@@ -1,18 +1,55 @@
-# Tic Tac Toe Web Application
+# Tic-Tac-Toe Web Application
 
-This project is a simple **Tic Tac Toe game** developed using **React.js**. It provides an interactive and fun way for two players to play the classic game of Xs and Os in a browser.
+A simple and interactive Tic-Tac-Toe game built using React.js and hosted on Netlify.
 
+## 🖥 Live Demo
+Check out the live version of the game: [Tic-Tac-Toe](https://tictactoe-mubashir72.netlify.app/)
 
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/70a1976c-115b-4033-8683-e0beb001d309)
 
-![image](https://github.com/user-attachments/assets/09c6e692-71da-4fbf-a9c1-627c3db00f2e)
+## 🚀 Features
+- Classic Tic-Tac-Toe gameplay
+- Responsive design for all devices
+- Interactive UI with smooth game experience
+- React state management for game logic
+- Reset game functionality
 
+## 🛠 Technologies Used
+- React.js
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- Netlify for deployment
 
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/tictactoe-react.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd tictactoe-react
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+5. Open your browser and go to `http://localhost:3000` to play the game.
 
+## 📤 Deployment
+The application is deployed on Netlify. To deploy your own version:
+1. Push your code to a GitHub repository.
+2. Connect your GitHub repo to Netlify.
+3. Configure Netlify to deploy the `main` branch.
+4. Deploy and get your live link!
 
+## 🤝 Contributing
+Feel free to contribute by submitting pull requests or reporting issues.
 
-## Features
-- **Two-Player Mode**: Play with a friend locally.
-- **Interactive UI**: Click to mark X or O.
-- **Winner Detection**: Automatically detects and announces the winner.
-- **Responsive Design**: Works seamlessly on desktops, tablets, and mobile devices.
-- **Reset Game**: Restart the game anytime with a reset button.
+---
+Made with ❤️ by Mubashir
+
